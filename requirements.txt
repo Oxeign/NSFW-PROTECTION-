@@ -4,3 +4,4 @@ opencv-python
 pyrogram
 pillow
 python-dotenv
+pytest
