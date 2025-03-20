@@ -1,2 +1,6 @@
-pip install -r requirements.txt
-python Main.py
+tensorflow
+numpy
+opencv-python
+pyrogram
+pillow
+python-dotenv
